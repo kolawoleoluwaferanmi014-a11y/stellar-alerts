@@ -1,0 +1,18 @@
+{
+  "default_branch": "contribution",
+  "branches": [
+    "contribution",
+    "fix/issue-757-150-pts-frontend-real-time-audio-notification",
+    "origin"
+  ],
+  "parent": {
+    "contribution": null,
+    "fix/issue-757-150-pts-frontend-real-time-audio-notification": "contribution",
+    "origin": "contribution"
+  },
+  "order": [
+    "contribution",
+    "fix/issue-757-150-pts-frontend-real-time-audio-notification",
+    "origin"
+  ]
+}
